@@ -340,16 +340,6 @@ Self-directed engineering practice building and shipping backend, systems, and s
 
 ---
 
-## ◈ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=elvishpatel&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest" />
-
-</div>
-
----
-
 ## ◈ Contribution Activity
 
 <div align="center">
@@ -361,38 +351,6 @@ Self-directed engineering practice building and shipping backend, systems, and s
 <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/elvishpatel/elvishpatel/output/github-contribution-grid-snake.svg" width="98%" />
 
 </div>
-
----
-
-## ◈ Current Focus
-
-```yaml
-# Elvish Kansagara — Engineering Focus (2025–2026)
-
-learning:
-  - System design and distributed systems architecture
-  - Advanced PostgreSQL: indexing, query planning, partitioning
-  - Deep learning fundamentals: CNNs, transformers, attention mechanisms
-  - Cloud-native deployment: Docker, CI/CD pipelines, AWS services
-
-building:
-  - Distributed systems and secure file infrastructure
-  - Secure backend services with Node.js and FastAPI
-  - IoT edge computing pipelines with ESP32 and MQTT
-  - Security tooling for developers and end users
-
-exploring:
-  - Zero-knowledge proof concepts in application security
-  - LLM prompt engineering and structured output pipelines
-  - Real-time analytics on financial market data (NSE/BSE)
-  - RAG architectures and LLM integration patterns
-
-open_to:
-  - Software engineering internships (backend / systems / full stack)
-  - Open source maintainership and collaboration
-  - Research projects in applied security and distributed systems
-  - Freelance product engineering engagements
-```
 
 ---
 
