@@ -240,44 +240,6 @@ Demonstrates **embedded C++**, **hardware-software interfacing**, **wireless pro
 
 ---
 
-## ◈ Experience
-
-<br/>
-
-**Software Developer** · *Independent / Open Source*
-`2022 – Present` · Rajkot, Gujarat, India
-
-Self-directed engineering practice building and shipping backend, systems, and security-focused open-source projects.
-
-- Engineered **VaultMesh**: distributed encrypted file vault with AES-256-GCM chunked encryption, consistent hash ring distribution across multiple storage nodes, PBKDF2 key derivation, and self-healing replica recovery
-- Built **EasyTransfer**: serverless CORS-safe chunked file upload architecture using Google Drive API and Netlify Functions proxy
-- Developed **ZeroChat**: privacy-first ephemeral Firebase real-time messaging with minimal data retention
-- Built **UrlVerifier**: client-side URL safety checker integrating SSL Labs, Google Safe Browsing, and urlscan.io APIs
-- Built **DataBreachChecker**: k-Anonymity breach lookup tool using HaveIBeenPwned API with zero plaintext transmission
-- Designed and deployed **IoT air quality monitoring** system: Arduino + ESP8266 + Blynk cloud telemetry with multi-sensor fusion
-- Maintained public GitHub portfolio of 18+ repositories spanning security tooling, IoT, distributed systems, and full-stack engineering
-
-`Python` `Node.js` `Express` `React` `Supabase` `Firebase` `PostgreSQL` `Arduino C++` `REST API Design` `AES-256-GCM` `Netlify Serverless`
-
----
-
-## ◈ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| 🔐 **Distributed Security Engineering** | Chunked AES-256-GCM with consistent hash ring distribution across multiple storage nodes (VaultMesh) |
-| 🛡️ **Security Tooling** | k-Anonymity breach lookup (DataBreachChecker) + multi-API URL threat detection (UrlVerifier) — both in production |
-| 📡 **IoT Deployment** | End-to-end embedded system: hardware sensor calibration → firmware → Wi-Fi → cloud dashboard |
-| 📂 **Open Source Portfolio** | 18+ public repositories spanning security, IoT, distributed systems, real-time comms, and full-stack |
-| 🏗️ **Architecture Design** | Zero-infrastructure serverless file sharing: Google Drive API + Netlify Functions proxy |
-| 🎓 **Education Path** | Diploma in Computer Engineering · A.V. Parekh Technical Institute (2022–2025) → B.Tech CSE lateral entry · Darshan University (2025–present) |
-
-</div>
-
----
-
 ## ◈ GitHub Analytics
 
 <div align="center">
