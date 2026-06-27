@@ -278,52 +278,6 @@ Self-directed engineering practice building and shipping backend, systems, and s
 
 ---
 
-## ◈ Certifications
-
-<br/>
-
-**Amazon Web Services**
-
-![AWS Cloud Foundations](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architecture%20Fundamentals-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-<br/>
-
-**Oracle**
-
-![Oracle Java](https://img.shields.io/badge/Oracle-Java%20Programming-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-<br/>
-
-**NPTEL — IIT / IISc**
-
-![NPTEL Python](https://img.shields.io/badge/NPTEL-Programming%20in%20Python-0052CC?style=flat-square&logo=python&logoColor=white)
-![NPTEL DSA](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-0052CC?style=flat-square&logo=codeforces&logoColor=white)
-![NPTEL DBMS](https://img.shields.io/badge/NPTEL-Database%20Management%20Systems-0052CC?style=flat-square&logo=postgresql&logoColor=white)
-
-<br/>
-
-**Cisco Networking Academy**
-
-![Cisco Python](https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco CyberSec](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
----
-
-## ◈ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-elvishpatel-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/elvishpatel)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-elvishpatel-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/elvishpatel)
-[![HackerRank](https://img.shields.io/badge/HackerRank-elvishpatel-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/elvishpatel)
-[![CodeChef](https://img.shields.io/badge/CodeChef-elvishpatel-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/elvishpatel)
-
-</div>
-
----
-
 ## ◈ GitHub Analytics
 
 <div align="center">
